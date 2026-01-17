@@ -38,9 +38,8 @@
 📌 **Website:**  [www.johannes-dejori.com](https://www.johannes-dejori.com)
 
 **Currently open for:**
-- Freelance projects
+- Client projects
 - Collaboration
-- Tech discussions
 
 ---
 
