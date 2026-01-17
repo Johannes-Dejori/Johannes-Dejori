@@ -32,25 +32,23 @@ Starting my **Master’s degree in Computer Science** (planned end of year)
 
 ## 🌍 What I Do
 
-- 🔧 Build scalable web & software solutions  
-- 🎨 Combine **design & development**
-- 🧩 Solve problems with clean, maintainable code
-- 🤝 Work independently & with clients
+- Build scalable web & software solutions  
+- Combine **design & development**
+- Solve problems with clean, maintainable code
+- Work independently & with clients
 
 ---
 
-## 📬 Contact, Skills & Morw
+## 📬 Contact, Skills & More
 
 📌 **Website:**  [www.johannes-dejori.com](https://www.johannes-dejori.com)
 
-Open for:
+Currently open for:
 - Freelance projects
 - Collaboration
 - Tech discussions
 
 ---
-
-## ✨ Daily Inspiration
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
