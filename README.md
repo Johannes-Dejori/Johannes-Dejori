@@ -46,6 +46,9 @@ Currently open for:
 - Tech discussions
 
 ---
-![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannesDejori&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesDejori&layout=compact&theme=transparent)
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+<p align="center">
+  <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+    <img src="https://readme-daily-quotes.vercel.app/api" />
+  </a>
+</p>
