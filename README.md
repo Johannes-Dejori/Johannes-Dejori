@@ -14,19 +14,16 @@
 
 ## 🚀 About Me
 
-🎓 **B.Sc. Interactive Media (Computer Science focus)**  
-University of Applied Sciences Augsburg (THA)
+**B.Sc. Interactive Media (Focus: Computer Science)**  
 
-💼 **Freelancer** in **IT, Web & Software Development**
+**Freelancer** in **IT, Web & Software Development**
 
-🧠 Passionate about:
-- Software Engineering
+**Passionate about:**
 - IT & Systems
 - Web Technologies
+- Software Engineering
+- Hardware & Physical Computing
 - Creating new digital experiences
-
-🎯 **Next goal:**  
-Starting my **Master’s degree in Computer Science** (planned end of year)
 
 ---
 
@@ -49,7 +46,6 @@ Currently open for:
 - Tech discussions
 
 ---
-
+![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannesDejori&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesDejori&layout=compact&theme=transparent)
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
----
