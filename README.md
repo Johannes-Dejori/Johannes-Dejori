@@ -40,7 +40,7 @@
 
 📌 **Website:**  [www.johannes-dejori.com](https://www.johannes-dejori.com)
 
-Currently open for:
+**Currently open for:**
 - Freelance projects
 - Collaboration
 - Tech discussions
