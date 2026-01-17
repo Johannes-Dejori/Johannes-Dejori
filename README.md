@@ -5,9 +5,6 @@
   <a href="https://www.johannes-dejori.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-johannes--dejori.com-black?style=for-the-badge&logo=google-chrome">
   </a>
-  <a href="https://github.com/Johannes-Dejori">
-    <img src="https://img.shields.io/github/followers/Johannes-Dejori?style=for-the-badge&logo=github">
-  </a>
 </p>
 
 ---
