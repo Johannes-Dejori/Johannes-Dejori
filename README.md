@@ -36,7 +36,7 @@
 
 ---
 
-## 📬 Contact, Skills & More
+## 📬 Contact
 
 📌 **Website:**  [www.johannes-dejori.com](https://www.johannes-dejori.com)
 
