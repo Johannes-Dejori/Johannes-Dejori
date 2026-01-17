@@ -30,28 +30,6 @@ Starting my **Master’s degree in Computer Science** (planned end of year)
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages & Core**
-- JavaScript / TypeScript
-- Python
-- Java
-- HTML / CSS
-
-**Web & Software**
-- React / Next.js
-- Node.js
-- REST APIs
-- Databases (SQL / NoSQL)
-
-**Tools & Workflow**
-- Git & GitHub
-- Docker
-- Linux
-- Figma
-
----
-
 ## 🌍 What I Do
 
 - 🔧 Build scalable web & software solutions  
@@ -61,12 +39,11 @@ Starting my **Master’s degree in Computer Science** (planned end of year)
 
 ---
 
-## 📬 Contact
+## 📬 Contact, Skills & Morw
 
-📌 **Website:**  
-👉 [www.johannes-dejori.com](https://www.johannes-dejori.com)
+📌 **Website:**  [www.johannes-dejori.com](https://www.johannes-dejori.com)
 
-💬 Open for:
+Open for:
 - Freelance projects
 - Collaboration
 - Tech discussions
@@ -78,7 +55,3 @@ Starting my **Master’s degree in Computer Science** (planned end of year)
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 ---
-
-<p align="center">
-  <em>"Build things that didn’t exist yesterday."</em>
-</p>
